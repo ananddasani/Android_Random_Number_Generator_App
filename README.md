@@ -1,6 +1,7 @@
 # Android_Random_Number_Generator_App
 Basic App to Understand Random Generation and Setting Text on TextView
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
 
 # Code
 
