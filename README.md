@@ -30,6 +30,6 @@ This topic is a part of [My Complete Andorid Course](https://github.com/ananddas
 
 # App Highlight
 
-<img src="app_images/Random Number Generator Code.png" width="1000" /><br>
+![Random Number Generator App](https://user-images.githubusercontent.com/74413402/192092661-59c636fc-170b-422c-b39f-a9c2d191eb4b.png)
+![Random Number Generator Code](https://user-images.githubusercontent.com/74413402/192092664-e08c8a9e-f1fc-47f6-8da2-dc35e256b45f.png)
 
-<img src="app_images/Random Number Generator App.png" width="300" /><br>
